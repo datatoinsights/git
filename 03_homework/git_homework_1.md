@@ -9,9 +9,12 @@
     * `git add <filename>` then `git commit`
 5. Write a suitable commit message and finalize your commit
 6. 📸 Take a screenshot of your terminal output
-8. Show the commit history
+![image](https://github.com/datatoinsights/git/assets/25420110/063a624d-0cf1-423b-a6e8-289f0d6a933f)
+
+7. Show the commit history
     * `git log`
 9. 📸 Take a screenshot of your terminal output
+![image](https://github.com/datatoinsights/git/assets/25420110/dc18ddcb-f9e6-4785-a6a0-b0049923f98e)
 
 ### Task 2
 1. Create a new public repository on GitHub
@@ -19,6 +22,7 @@
     * `git remote add origin <url>`
 3. Push your local `githomework1` repository to GitHub
 4. Include your repository URL in your submission
+https://github.com/datatoinsights/githomework1.git
 
 ### Task 3
 1. Create a new branch called `playing-with-bash`
